@@ -1,0 +1,35 @@
+* {
+    background-color: rgb(214, 214, 214);
+}
+
+  .footer {
+    display: flex;
+    position: fixed;
+    justify-content: space-between;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+  }
+  
+  .footer-item {
+    border: 1px solid #fff;
+    background-color: #838383;
+    height: 100px;
+    flex: 1;
+  }
+  
+  .footer-two {
+    text-align: center;
+    flex-wrap: wrap;
+  }
+  
+  
+  .footer-one,
+  .footer-three {
+    background-color: #a09e9e;
+    flex: initial;
+    width: 300px;
+  }
