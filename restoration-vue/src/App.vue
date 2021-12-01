@@ -20,11 +20,7 @@
     <router-view />
 
 <div class='footer'>
-  <div class='footer-item footer-one'></div>
-  <div class='footer-item footer-two'>
-    <a class=infootertwo href="https://github.com/huntermm18/restoration-project"><br>Link to github repository</a>
-  </div>
-  <div class='footer-item footer-three'></div>
+  <div class='footer-item'></div>
 </div>
 
 
@@ -70,7 +66,7 @@
     margin-bottom: 0px;
 }
 .page {
-  background-color: rgb(223, 223, 223);
+  background-color: rgb(238, 238, 238);
   display: flex;
   justify-content: center;
   flex-direction: column;
@@ -96,7 +92,7 @@ img {
   
   .footer-item {
     border: 1px solid #fff;
-    background-color: #b1b0b0;
+    background-color: #c9c9c9;
     height: 100px;
     flex: 1;
   }
@@ -120,7 +116,7 @@ img {
     justify-content: center;
     flex-direction: column;
     align-items: center;
-    background-color: rgb(223, 223, 223);
+    /*background-color: rgb(223, 223, 223);*/
 }
 
 
