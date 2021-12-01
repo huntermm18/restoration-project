@@ -6,9 +6,7 @@
     <h3 class='italic mobile-text-shrink-small'>"If Joseph Smith’s transcendent experience in the Sacred Grove teaches us anything,
        it is that the heavens are open and that God speaks to His children"
       <br>- President Russell M. Nelson</h3><hr><br>
-      <br><h2 class='bold mobile-text-shrink-large'>Explore this website to learn more about Joseph Smith's first vision and the restoration
-        of Christ's church to the earth in the latter days
-      </h2><br>
+
   </div>
   
   <div class=picture-text-content>
