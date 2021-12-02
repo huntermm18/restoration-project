@@ -46,6 +46,11 @@ let peopleData = [
     location: "New York",
     },
         {
+    name: "William M",
+    story: "The restoration of the fullness of the Gospel of Jesus Christ has brought clarity to my life. As I search the Bible, I recognize that the truths and principles taught in the primitive church are reflected and expounded upon by the Latter Day Church established by Joseph Smith. As a Christian, being able to worship in the temple and make binding covenants gives my religious worship more relevance, and gives the chance to receive more perfect hope. Only a church that demonstrates living prophets and revelation could truly be the true Church of Jesus Christ. And that gives me the confidence and faith to endure to the end.",
+    location: "",
+    },
+        {
     id: 7,
     name: "Hunter M",
     story: "My faith in the restoration affects me every day. I have chosen to live my life the way I do because I believe that Joseph Smith restored the priesthood to the earth and that we now have living prophets who give us direction and council. I believe they speak for God and because of that I choose to follow what they say. "+
@@ -82,31 +87,42 @@ let peopleData = [
     story: "That single event changed the future of the world. The appearance of the Father and the Son to the young prophet ushered in the dispensation of the fulness of times. It exemplified God’s love for His children and changed the world forever.",
     location: "",
     },
-    {
-    name: "",
-    story: "",
+
+        {
+    name: "President Gordon B. Hinckley",
+    story: "After many generations had walked the earth—so many of them in conflict, hatred, darkness, and evil—there arrived the great, new day of the Restoration. This glorious gospel was ushered in with the appearance of the Father and the Son to the boy Joseph. The dawn of the dispensation of the fulness of times rose upon the world. All of the good, the beautiful, the divine of all previous dispensations was restored in this most remarkable season",
     location: "",
     },
         {
-    name: "",
-    story: "",
+    name: "Elder L. Tom Perry",
+    story: "Our message is unique. We declare to the world that the fulness of the gospel of Jesus Christ has been restored to the earth. We declare with boldness that the keys of the priesthood have been restored to man, with the power to seal on earth and in the heavens. The saving ordinances pronounced by the Lord as requirements for entering into eternal life with Him can now be performed with binding authority by those who worthily exercise the power of His holy priesthood. We declare to the world that this is the day referred to by biblical prophets as the latter days. It is the final time, before the coming of Jesus Christ to rule and reign over the earth.",
     location: "",
     },
         {
-    name: "",
-    story: "",
+    name: "President James E. Faust",
+    story: "I have a personal witness of the truth of the covenants, teachings, and authority restored through the Prophet Joseph Smith. This assurance has been with me all of my life. I am grateful that the Restoration of the fulness of the gospel has taken place in our time. It contains the pathway to eternal life.",
     location: "",
     },
         {
-    name: "",
-    story: "",
+    name: "Elder Robert D. Hales",
+    story: "I exhort you, I pray for you—if you do not know these things for yourself, follow the example of Joseph Smith and the pattern of the Restoration. Turn to the scriptures. Kneel in prayer. Ask in faith. Listen to the Holy Ghost. Learn that your name and needs are known by our Heavenly Father, just as Joseph’s were. Live the gospel with patience and persistence. And in the name of Jesus Christ, I promise, “If ye will … ask [Heavenly Father] in faith, believing that ye shall receive, with diligence in keeping [the Lord’s] commandments, surely these things shall be made known unto you.”",
     location: "",
     },
-        {
-    name: "",
-    story: "",
-    location: "",
-    },
+        //     {
+    // name: "",
+    // story: "",
+    // location: "",
+    // },
+        //     {
+    // name: "",
+    // story: "",
+    // location: "",
+    // },
+        //     {
+    // name: "",
+    // story: "",
+    // location: "",
+    // },
 ]
 
 export default peopleData;

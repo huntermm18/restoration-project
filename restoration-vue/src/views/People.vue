@@ -10,7 +10,7 @@
             the world
         </h2><hr>
         <h2 class=middle-padding>
-            The following is a collection of people and their stories
+            The following is a collection of people and what the restoration means to them
         </h2>
         <Stories :PeopleAndStories="PeopleAndStories" />
 

@@ -20,7 +20,10 @@
     <router-view />
 
 <div class='footer'>
-  <div class='footer-item'></div>
+  <div class='footer-item'>
+    <br>
+    <a href='https://www.churchofjesuschrist.org/comeuntochrist'>churchofjesuschrist.org/comeuntochrist</a>
+  </div>
 </div>
 
 
